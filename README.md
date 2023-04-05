@@ -1,4 +1,6 @@
-[![MasterHead](web.gif)](https://codegrills.in)
+![Untitled-c2DpAWmNj-transformed](https://user-images.githubusercontent.com/128237946/230080097-78ae0cdc-30b1-4503-ba0a-e3e0794eafe0.jpeg)
+
+
 <h1 align="center">Hi 👋, I'm Abhay Singh Rawat</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
